@@ -2,7 +2,7 @@
    "fileLocations": [
        {
            "URIs": [
-               "s3://extwork-quicksight-project-zidan/netflix_titles.csv"
+               "s3://nextwork-quicksight-project-zidan/netflix_titles.csv"
            ]
        }
    ],
